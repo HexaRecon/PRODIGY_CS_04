@@ -17,3 +17,5 @@ This ethical keylogger captures and logs all keystrokes to a local text file usi
 & pip install pynput
 #It should be download in an environment
  & sudo python3 keylogger.py
+or
+sudo venv/bin/python keylogger.py
